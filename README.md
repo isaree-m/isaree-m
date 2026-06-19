@@ -20,13 +20,8 @@
 ---
 
 
-<br>
 
-**✦ currently growing**<br>
-&nbsp;&nbsp; ❀ &nbsp; a **temporal graph network** that detects financial contagion *before the first bank falls*<br>
-&nbsp;&nbsp; ❀ &nbsp; a **C++ limit-order-book matching engine**
 
-<br>
 
 <sub>**toolbox** &nbsp; · &nbsp; python &nbsp; · &nbsp; c/c++ &nbsp; · &nbsp; pytorch &nbsp; · &nbsp; react &nbsp; · &nbsp; spring boot &nbsp; · &nbsp; aws &nbsp; · &nbsp; sql</sub>
 
